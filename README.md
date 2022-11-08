@@ -22,5 +22,5 @@ or with specific version:
 ```
 uses: sueddeutsche/gha-tftools@v1
 with:
-  tfenv-version: '2.2.2'
+  tfenv-version: '3.0.0'
 ```
